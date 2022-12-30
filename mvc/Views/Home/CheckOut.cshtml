@@ -1,0 +1,68 @@
+﻿@model List<mvc.Models.CartItem>
+@{
+    int num = 1;        // số thứ tự
+    int amount = 0;     // thành tiền
+    int total = 0;      // tổng tiền
+}
+<br />
+<h3>Vui lòng kiểm tra lại đơn hàng và nhập đầy đủ thông tin</h3>
+<div class="row">
+    <div class="col">
+        <h4 class="text-warning">Thông tin đơn hàng</h4>
+        <table class="table table-bordered">
+            <tr class="bg-warning text-center">
+                <th>STT</th>
+                <th>Sản phẩm</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Thành tiền</th>
+                
+            </tr>
+            @foreach (var i in Model)
+            {
+                amount = i.Product.Price * i.Quantity;
+                total += amount;
+                <tr class="align-middle">
+                    <td>@(num++)</td>
+                    <td>
+                        <img src="~/images/@(i.Product.Image)" class="img-thumbnail" width="50" />
+                        @(i.Product.Name)
+                    </td>
+                    <td>@(i.Product.Price.ToString("n0"))</td>
+                    <td>
+                        @(i.Quantity)
+                    </td>
+                    <td>@(amount.ToString("n0"))</td>
+                    
+                </tr>
+            }
+            <tr>                
+                <td colspan="4" class="text-end">Thành tiền</td>
+                <td colspan="1"><strong class="text-danger">@(total.ToString("n0"))</strong></td>
+            </tr>
+        </table>
+    </div>  
+    <div class="col">
+        <h4 class="text-primary">Thông tin khách hàng</h4>
+        <form asp-action="CreateBill">
+            <input type="hidden" name="billTotal" value="@total" />
+            <div class="mb-3">
+                <label>Họ tên</label>
+                <input name="cusName" class="form-control" type="text" />
+            </div>
+            <div class="mb-3">
+                <label>Điện thoại</label>
+                <input name="cusPhone" class="form-control" type="text" />
+            </div>
+            <div class="mb-3">
+                <label>Địa chỉ</label>
+                <textarea name="cusAddress" class="form-control"></textarea>
+            </div>
+            <div class="mb-3">
+                <input type="submit" class="btn btn-primary" value="Xác nhận đơn hàng" />
+            </div>
+        </form>
+
+    </div>
+</div>"
+

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<mvc.Models.Product>
+
+@{
+    ViewData["Title"] = "Trang chính";
+}
+
+<h1>Danh sách mặt hàng</h1>
+<div class="row">
+    @foreach (var item in Model)
+    {
+    <div class="col-sm-3">
+        <div class="card text-center m-2 shadow">
+            <div class="card-header bg-info">
+                <b><a class="text-white text-decoration-none" asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Name)</a></b>
+            </div>
+            <div class="card-body text-center">
+                <a asp-action="Details" asp-route-id="@item.Id">
+                    <img src="~/images/@Html.DisplayFor(modelItem => item.Image)" max-width="100%" class="card-img" />
+                </a>
+                <p>Hãng sản xuất: <span class="text-info">@Html.DisplayFor(modelItem => item.Manufacturer)</span></p>
+                <p><strong>Giá bán: <span class="text-danger">@Html.DisplayFor(modelItem => item.Price)</span></strong></p>
+            </div>
+            <div class="card-footer">
+                <a class="btn btn-success" asp-action="Details" asp-route-id="@item.Id">Chi tiết</a>
+                <a class="btn btn-warning" asp-action="AddToCart" asp-route-id="@item.Id">Chọn mua</a>
+            </div>
+        </div>
+    </div>
+    }
+</div>
+    

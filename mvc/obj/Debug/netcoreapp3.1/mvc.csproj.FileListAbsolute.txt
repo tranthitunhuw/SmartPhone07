@@ -1,0 +1,1141 @@
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.StaticWebAssets.xml
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.pdb
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.AssemblyReference.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.xml
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.input.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.output.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorCoreGenerate.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cache
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.Views.pdb
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout1.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.json
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.StaticWebAssets.xml
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.pdb
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\demo22\b5\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.AssemblyReference.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.xml
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\mvc.styles.css
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.input.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.output.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorCoreGenerate.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout1.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.Views.pdb
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\demo22\b5\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.StaticWebAssets.xml
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.json
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.pdb
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\demo22\b6\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.AssemblyReference.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.xml
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\mvc.styles.css
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.input.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.output.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorCoreGenerate.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout1.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cs
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.Views.pdb
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
+D:\demo22\b6\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckOut.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Create.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Delete.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Details.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Edit.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Index.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Create.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Delete.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Details.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Edit.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Index.cshtml.g.cs
+Z:\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thank.cshtml.g.cs
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.StaticWebAssets.xml
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.pdb
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Aps.net\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.AssemblyReference.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.xml
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.input.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.output.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorCoreGenerate.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Create.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Delete.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Details.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Edit.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Index.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Create.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Delete.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Details.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Edit.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Index.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckOut.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thank.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout1.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cache
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cs
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.Views.pdb
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+E:\Aps.net\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.StaticWebAssets.xml
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.pdb
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Aps.net\đồ án\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.AssemblyReference.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.xml
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.input.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.output.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorCoreGenerate.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Create.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Delete.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Details.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Edit.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Index.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Create.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Delete.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Details.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Edit.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Index.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckOut.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thank.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout1.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cache
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cs
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.Views.pdb
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+E:\Aps.net\đồ án\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.StaticWebAssets.xml
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.Views.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\staticwebassets\mvc.StaticWebAssets.xml
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.input.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.TagHelpers.output.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorCoreGenerate.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Create.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Delete.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Details.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Edit.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\BillDetails\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Create.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Delete.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Details.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Edit.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Bills\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckOut.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thank.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCart.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout1.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.Views.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CopyComplete
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache

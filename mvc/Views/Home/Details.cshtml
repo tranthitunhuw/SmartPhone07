@@ -1,0 +1,55 @@
+﻿@model mvc.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết mặt hàng";
+}
+
+<h1>Chi tiết mặt hàng</h1>
+
+<div>
+    <h4 class="text-info">
+        @Html.DisplayFor(model => model.Name)
+    </h4>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Manufacturer)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Manufacturer)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Desciption)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Desciption)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="~/images/@Html.DisplayFor(model => model.Image)" class="img-fluid"/>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-warning" asp-action="AddToCart" asp-route-id="@Model.Id">Chọn mua</a> |
+    <a asp-action="Index">Trở về trang chính</a>
+</div>

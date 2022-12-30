@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>TNT Shop</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel='shortcut icon' href='~/images/account/icon.png' />
+ 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/79badda595.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <!-- Carousel -->
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/images/carousel/giam37.jpg" alt="Chất lượng" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/carousel/dt.jpg" alt="Chất lượng" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/carousel/50.jpg" alt="Chất lượng" class="d-block w-100">
+            </div>
+            
+
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <div class="container">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="navbar-brand" asp-controller="Home" asp-action="Index">TNT SHOP</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">Sản phẩm</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Products" asp-action="Index">Quản lý Sản Phẩm</a>
+                </li>
+             <form asp-controller="Home" asp-action="Index" method="get">
+        <p>
+            Title: <input type="text" name="search" />
+            <input type="submit" value="Search" />
+        </p>
+    </form>
+            </ul>
+            <ul class="navbar-nav">                
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="ViewCart">Giỏ hàng</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="mt-5 p-4 bg-dark text-white text-left">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h6 class="text-center">Thông Tin Liên Hệ</h6>
+                    <ul>
+                        <li><a href="">TNT shop thông tin chính thức</a></li>
+                        <li><a href="">email: tranthitunhuw</a></li>
+                        <li><a href="">hotline bán hàng 0333871714</a></li>  
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h6 class="text-center">Hỗ Trợ Khách Hàng</h6>
+                    <ul>
+                        <li><a href="">Chăm sóc khách hàng</a></li>
+                        <li><a href="">Thanh toán</a></li>
+                        <li><a href="">Hướng dẫn mua hàng</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h6 class="text-center">Chính Sách</h6>
+                    <ul>
+                        <li><a href="">Chế độ bảo hành</a></li>
+                        <li><a href="">Chính sách đổi hàng</a></li>
+                        <li><a href="">Bảo mật thông tin</a></li>
+                        <li><a href="">Chính sách giao nhận</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>
